@@ -20,8 +20,9 @@ AWS/GCP
 ### CI/CD:  
 Saltstack, Openstack, Jenkins, Bamboo, Git/Bitbucket/Gitlab, Sonar Cube
 
-
 # Social Networks :busts_in_silhouette:
+<img src="https://github.com/jersobh/jersobh/blob/master/octocat.png?raw=true" width="200" />
+
 Instagram: [fullstack.jeff](https://www.instagram.com/fullstack.jeff)
 LinkedIn: [andradejefferson](https://www.linkedin.com/in/andradejefferson/)
 
