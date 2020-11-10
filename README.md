@@ -1,8 +1,6 @@
 
 ### Hello! Holla! Olá! Salut! Hallo! :vulcan_salute: :smile:
 
-<img src="https://github.com/jersobh/jersobh/blob/master/octocat.png?raw=true" width="200" />
-
 # About :hurtrealbad:
 I'm **Jeff**. Yes, I'm a **full stack developer** from **Brazil**. My main programing language is **Python**, but I'm also comfortable with **Node**, **PHP** and **Go**.  This is my current tech stack :
 
