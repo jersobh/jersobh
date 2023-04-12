@@ -5,10 +5,10 @@
 I'm **Jeff**. Yes, I'm a **full stack developer** from **Brazil**. My main programing language is **Python**, but I'm also comfortable with **Node**, **PHP** and **Go**.  This is my current tech stack :
 
 ### Frontend:  
-VueJS, Angular, React, Javascript ES6, JQuery, CSS3, HTML5, NativeScript  
+VueJS, Angular, React, React-Native, Javascript ES6, JQuery, CSS3, HTML5, NativeScript  
 
 ### Backend:  
-Python 3 (Flask, Asyncio, Django, Tornado, twisted, aiohttp, Unit tests, Coverage tests, Tox, Selenium, Scrapy),  Golang,  NodeJS (Express),  PHP (Slim Framework, Laravel, Symfony, Zend) ,
+Python 3 (Flask, Asyncio, Django, Tornado, twisted, aiohttp, unit tests, coverage tests, Tox, Selenium, Scrapy),  Golang,  NodeJS (Express),  PHP (Slim Framework, Laravel, Symfony, Zend) ,
 
 ### DevOps/Infrastructure: 
 Docker/Chef/Puppet/Kubernetes  
