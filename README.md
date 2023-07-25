@@ -5,7 +5,7 @@
 I'm **Jeff**. I'm a **product-oriented** full stack developer from **Brazil**. My main programing language is **Python**, but I'm also comfortable with **Node**, **PHP** and **Go**.
 
 ## Frontend: 
-ReactJS, VueJS, Javascript, Typescript, CSS3, HTML5
+React.js, React-Native, NextJS, VueJS, Javascript, Typescript, CSS3, HTML5
 
 ## Backend: 
 Python (Flask, Asyncio, Django, Tornado, twisted, aiohttp, Unit & Coverage tests, Tox, Selenium, Scrapy), 
