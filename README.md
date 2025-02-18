@@ -4,11 +4,19 @@
 # About :hurtrealbad:
 I'm **Jeff**. I'm a **product-oriented** full stack developer from **Brazil**. My main programing language is **Python**, but I'm also comfortable with **Node** and **Go**.
 
+## AI: 
+- Retrieval-Augmented Generation (RAG): Implementing RAG pipelines using Streamlit, embeddings, and LLMs for enhanced AI responses.
+- Large Language Models (LLMs): Experience in deploying, fine-tuning, and integrating Ollama and other models.
+- Embeddings & Vector Search: Utilizing embedding models for semantic search and information retrieval.
+- Autonomous Agents: Developing browser automation, chatbots, and other AI-driven agents.
+- LangChain: Building AI-powered applications with modular workflows and integrations.
+
+
 ## Frontend: 
 React.js, React-Native, NextJS, VueJS, Javascript, Typescript, CSS3, HTML5
 
 ## Backend: 
-Python (Flask, Asyncio, Django, Tornado, twisted, aiohttp, Unit & Coverage tests, Tox, Selenium, Scrapy), 
+Python (Flask, Asyncio, Django, Tornado, twisted, aiohttp, Unit & Coverage tests, Tox, Selenium, Scrapy, Playwright, Beautiful Soup), 
 Golang,
 NodeJS (Express)
 
